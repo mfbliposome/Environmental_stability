@@ -1,5 +1,5 @@
 This batch of data is to investigate the affect for vesicles formation in different environments that have different pH.
-There are total 6 samples, and total 16 environments:
+There are total 6 samples and total 16 environments:
 1M HCL, 60uL + water
 1M HCL, 30uL + water
 0.1M NaOH 15uL + water
@@ -17,4 +17,4 @@ Nacl 50mM
 Nacl 200mM
 Nacl 500mM
 
-Each sample have done duplicates.
+Each sample has done duplicates.
