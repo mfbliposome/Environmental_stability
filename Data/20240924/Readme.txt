@@ -18,3 +18,5 @@ Nacl 200mM
 Nacl 500mM
 
 Each sample has done duplicates.
+
+This batch of experiments will be reconducted.
