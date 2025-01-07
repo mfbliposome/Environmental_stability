@@ -19,4 +19,4 @@ Nacl 500mM
 
 Each sample has done duplicates.
 
-This batch of experiments will be reconducted.
+This batch of experiments will be reconducted as the output was not consistent with previous predictions.
