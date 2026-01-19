@@ -13,6 +13,7 @@ In this folder, it has stored the data files for each experiments  including:
 - folder '20241111': 'top_12_samples_GSx_20241106.csv' rehydate in 16 environments, vesicles count in'df_final_20241111.csv ', pH values recoded in 'enviph.xlsx'
 - folder '20241206_ES': 'top_8_samples_GSx_20241106.csv' rehydrate in 12 environments,  vesicles count in  'df_final_ES_20241206.csv '
 - folder '20250307'(data presented for publication): 'top_8_samples_GSx_20241106.csv' rehydrate in 12 environments, replacing decyl soduim sulfate (DS) with dodecyl soduim sulfate (DDS), vesicles count in 'df_final_sulfate_20250307.'. replacing dodecyl soduim sulfate (DDS) with dodecyl soduim phosphate (DDP), vesicles count in 'df_final_phosphate_20250307.csv'. Critical Vesicle Concentration data  of DS/DDS/DDP recorded in 'CVC_data.zip', pH values of DS/DDS/DDP recorded in 'ph_DS_DDS_DDP.xlsx'.
-- Original microscopy image and vesicles detection results. These data files can be downloaded from https://doi.org/10.5281/zenodo.17612643
 #### folder 'soup':
 - This folder contain the Meteoric Soup Recipe.
+ ### Confocal Microscopy images
+  Original microscopy image and vesicles detection results. These data files can be downloaded from https://doi.org/10.5281/zenodo.17612643
