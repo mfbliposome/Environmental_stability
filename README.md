@@ -18,7 +18,9 @@ This folder contains all final experimental data analyzed and discussed in the m
        - Replacement of dodecyl sodium sulfate (DDS) with dodecyl sodium phosphate (DDP), Vesicle counts: df_final_phosphate_20250307.csv
 - Additional physicochemical measurements:
 Critical Vesicle Concentration (CVC) data for DS, DDS, and DDP: CVC_data.zip, pH measurements for DS, DDS, and DDP solutions: ph_DS_DDS_DDP.xlsx
+
 #### 'soup'
 This folder contain the Meteoric Soup Recipe used in the experiments.
+
 #### Confocal Microscopy images
   Original microscopy image and vesicles detection results. These data files can be downloaded from https://doi.org/10.5281/zenodo.17612643
