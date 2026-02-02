@@ -14,8 +14,8 @@ This dataset establishes baseline vesicle formation behavior using decyl sodium 
 This folder contains all final experimental data analyzed and discussed in the manuscript.
 - Sample set: top_8_samples_GSx_20241106.csv, rehydrated in 12 environmental conditions.
 - Surfactant substitution experiments:
-       - Replacement of decyl sodium sulfate (DS) with dodecyl sodium sulfate (DDS), Vesicle counts: df_final_sulfate_20250307.csv
-       - Replacement of dodecyl sodium sulfate (DDS) with dodecyl sodium phosphate (DDP), Vesicle counts: df_final_phosphate_20250307.csv
+  Replacement of decyl sodium sulfate (DS) with dodecyl sodium sulfate (DDS), Vesicle counts: df_final_sulfate_20250307.csv
+  Replacement of dodecyl sodium sulfate (DDS) with dodecyl sodium phosphate (DDP), Vesicle counts: df_final_phosphate_20250307.csv
 - Additional physicochemical measurements:
 Critical Vesicle Concentration (CVC) data for DS, DDS, and DDP: CVC_data.zip, pH measurements for DS, DDS, and DDP solutions: ph_DS_DDS_DDP.xlsx
 
